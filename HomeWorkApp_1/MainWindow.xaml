@@ -1,0 +1,47 @@
+﻿<Window x:Class="HomeWorkApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HomeWorkApp_1"
+        mc:Ignorable="d"
+        Title="HomeWork" Height="640" Width="480" ResizeMode="NoResize"
+        Icon="Resources/icon.ico">
+    <Grid>
+        <TabControl>
+            <TabItem Header="HomeWork 1">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel>
+                        
+                        <GroupBox Header ="Task 1: Factorial">
+                            <StackPanel Name ="Task_1">
+                                <TextBox Name="FactorialInput"/>
+                                <TextBlock Name="FactorialOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <GroupBox Header ="Task 2: Fibonacci">
+                            <StackPanel Name ="Task_2">
+                                <TextBox Name="FibonacciInput"/>
+                                <TextBlock Name="FibonacciOutput" TextWrapping="Wrap"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <GroupBox Header ="Task 3: BinaryCountOnes">
+                            <StackPanel Name ="Task_3">
+                                <TextBox Name="BinaryCountOnesInput"/>
+                                <TextBlock Name="BinaryCountOnesOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+            <TabItem Header="HomeWork 2">
+                <StackPanel>
+                    
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
