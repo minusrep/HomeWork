@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\binarycountonesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\binarycountonesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\analytics\\analyticsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\analytics\\analyticsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp_1.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp_1.csproj|solutionrelative:homeworkapp_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\factorialtaskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\factorialtaskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\fibonacciview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\fibonacciview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp_1.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp_1.csproj|solutionrelative:homeworkapp_1\\source\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\analytics\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\analytics\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\taskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\taskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\pallidromeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\pallidromeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\fibonacciview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\fibonacciview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp_1.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp_1.csproj|solutionrelative:homeworkapp_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkApp_Tests.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_tests\\mathhelper_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkApp_Tests.csproj|solutionrelative:homeworkapp_tests\\mathhelper_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp_1.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp_1.csproj|solutionrelative:homeworkapp_1\\source\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\binarycountonesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\binarycountonesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\factorialtaskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\factorialtaskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp_1.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,135 +69,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BinaryCountOnesView.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\BinaryCountOnesView.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\BinaryCountOnesView.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\BinaryCountOnesView.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\BinaryCountOnesView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T19:03:47.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FibonacciView.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\FibonacciView.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\FibonacciView.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\FibonacciView.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\FibonacciView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:13:31.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FactorialTaskView.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\FactorialTaskView.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\FactorialTaskView.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\FactorialTaskView.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\FactorialTaskView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:52:15.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskView.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\TaskView.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\TaskView.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\TaskView.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\TaskView.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwDgAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:29:55.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Data.cs",
-              "DocumentMoniker": "P:\\Projects\\3GC2024\\Assets\\ProjectRoot\\_Scripts\\_Services\\_DataHandler\\Data.cs",
-              "ToolTip": "P:\\Projects\\3GC2024\\Assets\\ProjectRoot\\_Scripts\\_Services\\_DataHandler\\Data.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:32:04.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MathHelper_Tests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\MathHelper_Tests.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_Tests\\MathHelper_Tests.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\MathHelper_Tests.cs",
-              "RelativeToolTip": "HomeWorkApp_Tests\\MathHelper_Tests.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAmwEoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:17:46.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MathHelper.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\MathHelper.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\MathHelper.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAuwCkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:13:12.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\AssemblyInfo.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:08:32.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\MainWindow.xaml.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T15:19:39.835Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "965c4fd2-5afc-4077-9383-7d9a886706e1",
-        "Display": 0,
-        "X": 314,
-        "Y": 69,
-        "Width": 938,
-        "Height": 755,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -190,6 +82,181 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-02T19:06:04.443Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnalyticsView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Analytics\\AnalyticsView.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\Analytics\\AnalyticsView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Analytics\\AnalyticsView.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\Analytics\\AnalyticsView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:10:38.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\TaskView.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\TaskView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\TaskView.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\TaskView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:29:55.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PallidromeView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\PallidromeView.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\PallidromeView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\PallidromeView.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\PallidromeView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:32:25.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwD4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:35:39.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Analytics.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Analytics\\Analytics.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\Analytics\\Analytics.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Analytics\\Analytics.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\Analytics\\Analytics.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADgvzAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:49:50.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\MathHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\MathHelper.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:06:10.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FibonacciView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\FibonacciView.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\FibonacciView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\FibonacciView.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\FibonacciView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:13:31.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MathHelper_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\MathHelper_Tests.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_Tests\\MathHelper_Tests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\MathHelper_Tests.cs",
+              "RelativeToolTip": "HomeWorkApp_Tests\\MathHelper_Tests.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAD4v18AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:17:46.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:19:39.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BinaryCountOnesView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\BinaryCountOnesView.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\BinaryCountOnesView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\BinaryCountOnesView.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\BinaryCountOnesView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:03:47.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Data.cs",
+              "DocumentMoniker": "P:\\Projects\\3GC2024\\Assets\\ProjectRoot\\_Scripts\\_Services\\_DataHandler\\Data.cs",
+              "ToolTip": "P:\\Projects\\3GC2024\\Assets\\ProjectRoot\\_Scripts\\_Services\\_DataHandler\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:32:04.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FactorialTaskView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\FactorialTaskView.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\FactorialTaskView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\FactorialTaskView.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\FactorialTaskView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:52:15.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\MathHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\MathHelper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:13:12.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\AssemblyInfo.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:08:32.508Z"
             }
           ]
         }

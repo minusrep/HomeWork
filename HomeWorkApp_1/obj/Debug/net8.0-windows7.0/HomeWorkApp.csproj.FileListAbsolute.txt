@@ -18,3 +18,4 @@ C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_1\obj\Debug\net8.0-windows7
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_1\obj\Debug\net8.0-windows7.0\HomeWorkApp.pdb
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_1\obj\Debug\net8.0-windows7.0\HomeWorkApp.genruntimeconfig.cache
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_1\obj\Debug\net8.0-windows7.0\ref\HomeWorkApp.dll
+C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_1\obj\Debug\net8.0-windows7.0\HomeWorkApp.sourcelink.json

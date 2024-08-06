@@ -34,6 +34,21 @@
                             </StackPanel>
                         </GroupBox>
 
+                        <GroupBox Header ="Task 4: Is Pallidrome">
+                            <StackPanel Name ="Task_4">
+                                <TextBox Name="PallidromeInput"/>
+                                <TextBlock Name="PallidromeOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <GroupBox Header ="Task 5: Analytics">
+                            <StackPanel Name ="Task_5">
+                                <Button Name = "OnUploadButton" Content="Upload" Click="OnUploadButton_Click"></Button>
+                                <TextBlock Name="BestDayOutput"/>
+                                <TextBlock Name="WorstDayOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
                     </StackPanel>
                 </ScrollViewer>
             </TabItem>

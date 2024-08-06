@@ -115,3 +115,4 @@ C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-wind
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.pdb
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.genruntimeconfig.cache
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\ref\HomeWorkApp_Tests.dll
+C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.sourcelink.json

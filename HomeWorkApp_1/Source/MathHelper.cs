@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics;
 using System.Numerics;
+using System.Windows.Controls;
 
 namespace HomeWorkApp.Source
 {
@@ -39,12 +40,24 @@ namespace HomeWorkApp.Source
 
             var count = 0;
 
-            while(n != 0)
+            while (n != 0)
             {
                 count += n & 1;
                 n >>= 1;
             }
             return count;
         }
+
+        public bool IsPallidrome(int value)
+        {
+            if (value < 0) return false;
+
+            if (value < 10) return true;
+
+            if (value < 100) return (value % 10) == (value / 10);
+
+            return (value / 100 == value % 10);
+        }
+
     }
 }

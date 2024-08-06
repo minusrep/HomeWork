@@ -83,5 +83,33 @@ namespace HomeWorkApp_Tests
 
             Assert.AreEqual(-1, _mathHelper.BinaryCountOnes(-154345));
         }
+
+        [TestMethod] 
+        public void IsPallidromeValidInputReturnsTrue()
+        {
+            Assert.AreEqual(true, _mathHelper.IsPallidrome(121));
+
+            Assert.AreEqual(true, _mathHelper.IsPallidrome(111));
+
+            Assert.AreEqual(true, _mathHelper.IsPallidrome(101));
+
+            Assert.AreEqual(true, _mathHelper.IsPallidrome(11));
+
+            Assert.AreEqual(true, _mathHelper.IsPallidrome(1));
+        }
+
+        [TestMethod]
+        public void IsPallidromeValidInputReturnsFalse()
+        {
+            Assert.AreEqual(false, _mathHelper.IsPallidrome(122));
+
+            Assert.AreEqual(false, _mathHelper.IsPallidrome(-1));
+
+            Assert.AreEqual(false, _mathHelper.IsPallidrome(-121));
+
+            Assert.AreEqual(false, _mathHelper.IsPallidrome(997));
+
+            Assert.AreEqual(false, _mathHelper.IsPallidrome(28));
+        }
     }
 }
