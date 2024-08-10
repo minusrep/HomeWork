@@ -1,4 +1,10 @@
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\bin\Debug\net8.0-windows7.0\CoverletSourceRootsMapping_HomeWorkApp_Tests
+C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.AssemblyInfo.cs
+C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.sourcelink.json
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\bin\Debug\net8.0-windows7.0\testhost.dll
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\bin\Debug\net8.0-windows7.0\HomeWorkApp.deps.json
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\bin\Debug\net8.0-windows7.0\HomeWorkApp.runtimeconfig.json
@@ -104,15 +110,9 @@ C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\bin\Debug\net8.0-wind
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\bin\Debug\net8.0-windows7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\bin\Debug\net8.0-windows7.0\HomeWorkApp.pdb
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\bin\Debug\net8.0-windows7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.AssemblyInfo.cs
-C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWork.5CC4B0AE.Up2Date
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.dll
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\refint\HomeWorkApp_Tests.dll
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.pdb
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.genruntimeconfig.cache
 C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\ref\HomeWorkApp_Tests.dll
-C:\Users\User\source\repos\HomeWorkApp_1\HomeWorkApp_Tests\obj\Debug\net8.0-windows7.0\HomeWorkApp_Tests.sourcelink.json

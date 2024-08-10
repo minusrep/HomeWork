@@ -1,5 +1,6 @@
 ﻿using HomeWorkApp.Source;
 using HomeWorkApp.Source._Analytics;
+using HomeWorkApp.Source.View;
 using Microsoft.Win32;
 using System.Text;
 using System.Windows;
@@ -20,6 +21,8 @@ namespace HomeWorkApp
 
         private Analytics _analytics;
 
+        private ArrayHandler _arrayHandler;
+
         private AnalyticsView _analyticsView;
 
         public MainWindow()
@@ -29,6 +32,8 @@ namespace HomeWorkApp
             _mathHelper = new MathHelper();
 
             _analytics = new Analytics();
+
+            _arrayHandler = new ArrayHandler();
 
             View();
         }
@@ -43,6 +48,14 @@ namespace HomeWorkApp
             var pallidromeView = new PallidromeView(Task_4, _mathHelper);
 
             _analyticsView = new AnalyticsView(Task_5, _analytics);
+
+            var maxView = new MaxView(Task_6, _arrayHandler);
+
+            var rotateInverseView = new RotateInverseView(Task_7, _arrayHandler);
+
+            var sortByEven = new SortByEvenView(Task_8, _arrayHandler);
+
+            var add = new AddView(Task_9, _arrayHandler);
         }
 
         private void OnUploadButton_Click(object sender, RoutedEventArgs e)

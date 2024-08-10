@@ -53,9 +53,57 @@
                 </ScrollViewer>
             </TabItem>
             <TabItem Header="HomeWork 2">
-                <StackPanel>
-                    
-                </StackPanel>
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel>
+
+                        <GroupBox Header ="Task 6: Max">
+                            <StackPanel Name ="Task_6">
+                                <Label Content="Array [1, 0, .., n] [0, n]: "/>
+                                <TextBox Name="MaxInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="MaxOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+                        
+                        <GroupBox Header ="Task 7: RotateInverse">
+                            <StackPanel Name ="Task_7">
+                                <Label Content="Array [1, 0, .., n] [k]: "/>
+                                <TextBox Name="RotateInverseInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="RotateInverseOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <GroupBox Header ="Task 8: SortByEven">
+                            <StackPanel Name ="Task_8">
+                                <Label Content="Array [1, 0, .., n]"/>
+                                <TextBox Name="SortByEvenInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="SortByEvenOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+
+                        <GroupBox Header ="Task 9: Add">
+                            <StackPanel Name ="Task_9">
+                                <Label Content="Array [1, 0, .., n]"/>
+                                <TextBox Name="AddInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="AddOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+            <TabItem Header="HomeWork 3">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel>
+
+
+                    </StackPanel>
+                </ScrollViewer>
             </TabItem>
         </TabControl>
     </Grid>
