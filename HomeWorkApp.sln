@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkApp", "HomeWorkApp_1\HomeWorkApp.csproj", "{105ED08F-3642-4C83-9A2A-590B2DFA2A47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkApp", "HomeWorkApp_1\HomeWorkApp.csproj", "{105ED08F-3642-4C83-9A2A-590B2DFA2A47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkApp_Tests", "HomeWorkApp_Tests\HomeWorkApp_Tests.csproj", "{E42364EB-D110-4AC4-AB6F-BB8E218A8457}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkAppTests", "HomeWorkApp_Tests\HomeWorkAppTests.csproj", "{E42364EB-D110-4AC4-AB6F-BB8E218A8457}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

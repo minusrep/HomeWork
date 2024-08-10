@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\view\\rotateinverseview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\view\\rotateinverseview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\collections\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\collections\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkApp_Tests.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_tests\\arrayhandler_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkApp_Tests.csproj|solutionrelative:homeworkapp_tests\\arrayhandler_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkAppTests.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_tests\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkAppTests.csproj|solutionrelative:homeworkapp_tests\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\mathhelper\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\mathhelper\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\collections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\collections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\view\\addview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\view\\addview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\view\\sortbyevenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\view\\sortbyevenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\view\\taskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\view\\taskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\arrayhandler\\arrayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\arrayhandler\\arrayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkApp_Tests.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_tests\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkApp_Tests.csproj|solutionrelative:homeworkapp_tests\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MathHelper.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper\\MathHelper.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\MathHelper\\MathHelper.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper\\MathHelper.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\MathHelper\\MathHelper.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAwwDwAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "QueueTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\QueueTests.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_Tests\\QueueTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\QueueTests.cs",
+              "RelativeToolTip": "HomeWorkApp_Tests\\QueueTests.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwEMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T17:31:33.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\MainWindow.xaml",
-              "RelativeToolTip": "HomeWorkApp_1\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-10T17:28:08.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddView.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\View\\AddView.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\View\\AddView.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\View\\AddView.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\View\\AddView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T17:28:00.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskView.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\View\\TaskView.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\View\\TaskView.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\View\\TaskView.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\View\\TaskView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T17:27:52.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\MainWindow.xaml.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAA5wDcAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T18:20:46.971Z",
+              "WhenOpened": "2024-08-10T19:53:17.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RotateInverseView.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\View\\RotateInverseView.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\View\\RotateInverseView.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\View\\RotateInverseView.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\View\\RotateInverseView.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA1wCoAAAAjAAAA",
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Collections\\Queue.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\Collections\\Queue.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Collections\\Queue.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\Collections\\Queue.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T18:18:29.503Z",
+              "WhenOpened": "2024-08-10T19:40:14.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SortByEvenView.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\View\\SortByEvenView.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\View\\SortByEvenView.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\View\\SortByEvenView.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\View\\SortByEvenView.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAMwBYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Collections\\Stack.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\Collections\\Stack.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Collections\\Stack.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\Collections\\Stack.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T18:16:39.051Z",
+              "WhenOpened": "2024-08-10T19:40:07.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArrayHandler_Tests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\ArrayHandler_Tests.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_Tests\\ArrayHandler_Tests.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\ArrayHandler_Tests.cs",
-              "RelativeToolTip": "HomeWorkApp_Tests\\ArrayHandler_Tests.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAApwCcAAABOAAAA",
+              "DocumentIndex": 3,
+              "Title": "StackTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\StackTests.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_Tests\\StackTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\StackTests.cs",
+              "RelativeToolTip": "HomeWorkApp_Tests\\StackTests.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T18:08:21.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ArrayHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\ArrayHandler\\ArrayHandler.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\ArrayHandler\\ArrayHandler.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\ArrayHandler\\ArrayHandler.cs",
-              "RelativeToolTip": "HomeWorkApp_1\\Source\\ArrayHandler\\ArrayHandler.cs",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAAwIsAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T16:21:07.48Z",
+              "WhenOpened": "2024-08-10T19:37:37.926Z",
               "EditorCaption": ""
             }
           ]
