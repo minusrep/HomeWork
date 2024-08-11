@@ -3,19 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\mathhelper\\mathfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\mathhelper\\mathfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\collections\\dlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\collections\\dlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkAppTests.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_tests\\dlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkAppTests.csproj|solutionrelative:homeworkapp_tests\\dlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\mathhelper\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\mathhelper\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkAppTests.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_tests\\mathfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkAppTests.csproj|solutionrelative:homeworkapp_tests\\mathfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\collections\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\collections\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkAppTests.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_tests\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkAppTests.csproj|solutionrelative:homeworkapp_tests\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_1\\source\\collections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_1\\source\\collections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{105ED08F-3642-4C83-9A2A-590B2DFA2A47}|HomeWorkApp_1\\HomeWorkApp.csproj|solutionrelative:homeworkapp_1\\source\\collections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkApp_Tests.csproj|c:\\users\\user\\source\\repos\\homeworkapp_1\\homeworkapp_tests\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkApp_Tests.csproj|C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\homeworkapp_tests\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E42364EB-D110-4AC4-AB6F-BB8E218A8457}|HomeWorkApp_Tests\\HomeWorkApp_Tests.csproj|solutionrelative:homeworkapp_tests\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,24 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QueueTests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\QueueTests.cs",
-              "RelativeDocumentMoniker": "HomeWorkApp_Tests\\QueueTests.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\QueueTests.cs",
-              "RelativeToolTip": "HomeWorkApp_Tests\\QueueTests.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAcwEMAAAAfAAAA",
+              "DocumentIndex": 2,
+              "Title": "DListTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\DListTests.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_Tests\\DListTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\DListTests.cs",
+              "RelativeToolTip": "HomeWorkApp_Tests\\DListTests.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwEYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T19:53:17.692Z",
+              "WhenOpened": "2024-08-11T17:13:39.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Collections\\DList.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\Collections\\DList.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Collections\\DList.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\Collections\\DList.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAQwGsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:47:36.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper\\MathHelper.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\MathHelper\\MathHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper\\MathHelper.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\MathHelper\\MathHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:31:32.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathFunctionTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\MathFunctionTests.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_Tests\\MathFunctionTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\MathFunctionTests.cs",
+              "RelativeToolTip": "HomeWorkApp_Tests\\MathFunctionTests.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:31:11.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MathFunction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper\\MathFunction.cs",
+              "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\MathHelper\\MathFunction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\MathHelper\\MathFunction.cs",
+              "RelativeToolTip": "HomeWorkApp_1\\Source\\MathHelper\\MathFunction.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAFAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:44:15.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Queue.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Collections\\Queue.cs",
               "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\Collections\\Queue.cs",
@@ -56,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Stack.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_1\\Source\\Collections\\Stack.cs",
               "RelativeDocumentMoniker": "HomeWorkApp_1\\Source\\Collections\\Stack.cs",
@@ -64,12 +132,11 @@
               "RelativeToolTip": "HomeWorkApp_1\\Source\\Collections\\Stack.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAA1wCYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T19:40:07.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T19:40:07.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "StackTests.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkApp_1\\HomeWorkApp_Tests\\StackTests.cs",
               "RelativeDocumentMoniker": "HomeWorkApp_Tests\\StackTests.cs",
@@ -77,8 +144,7 @@
               "RelativeToolTip": "HomeWorkApp_Tests\\StackTests.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAIwAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T19:37:37.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T19:37:37.926Z"
             }
           ]
         }
