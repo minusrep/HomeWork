@@ -100,7 +100,87 @@
             <TabItem Header="HomeWork 3">
                 <ScrollViewer VerticalScrollBarVisibility="Auto">
                     <StackPanel>
+                        <GroupBox Header ="Task 10: BubbleSort">
+                            <StackPanel Name ="Task_10">
+                                <Label Content="Array [1, 0, .., n]"/>
+                                <TextBox Name="BubbleSortInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="BubbleSortOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+                        
+                        <GroupBox Header ="Task 11: SelectionSort">
+                            <StackPanel Name ="Task_11">
+                                <Label Content="Array [1, 0, .., n]"/>
+                                <TextBox Name="SelectionSortInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="SelectionSortOutput"/>
+                            </StackPanel>
+                        </GroupBox>
 
+                        <GroupBox Header ="Task 12: RecursiveSum">
+                            <StackPanel Name ="Task_12">
+                                <Label Content="Array [1, 0, .., n]"/>
+                                <TextBox Name="RecursiveSumInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="RecursiveSumOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <GroupBox Header ="Task 13: RecursiveEvenSum">
+                            <StackPanel Name ="Task_13">
+                                <Label Content="Array [1, 0, .., n]"/>
+                                <TextBox Name="RecursiveEvenSumInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="RecursiveEvenSumOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <GroupBox Header ="Task 14: RecursiveMax">
+                            <StackPanel Name ="Task_14">
+                                <Label Content="Array [1, 0, .., n]"/>
+                                <TextBox Name="RecursiveMaxInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="RecursiveMaxOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <GroupBox Header ="Task 15: Reverse">
+                            <StackPanel Name ="Task_15">
+                                <Label Content="Text"/>
+                                <TextBox Name="ReverseInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="ReverseOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+
+                        <GroupBox Header ="Task 16: IsPallidrome">
+                            <StackPanel Name ="Task_16">
+                                <Label Content="Text"/>
+                                <TextBox Name="IsPallidromeInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="IsPallidromeOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <GroupBox Header ="Task 17: IsFibonacci">
+                            <StackPanel Name ="Task_17">
+                                <Label Content="N"/>
+                                <TextBox Name="IsFibonacciInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="IsFibonacciOutput"/>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <GroupBox Header ="Task 18: DigitsSum">
+                            <StackPanel Name ="Task_18">
+                                <Label Content="Text"/>
+                                <TextBox Name="DigitsSumInput"/>
+                                <Label Content="Result: "/>
+                                <TextBlock Name="DigitsSumOutput"/>
+                            </StackPanel>
+                        </GroupBox>
 
                     </StackPanel>
                 </ScrollViewer>

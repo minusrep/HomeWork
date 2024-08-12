@@ -19,6 +19,8 @@ namespace HomeWorkApp
     {
         private MathHelper _mathHelper;
 
+        private MathFunction _mathFunction;
+
         private Analytics _analytics;
 
         private ArrayHandler _arrayHandler;
@@ -30,6 +32,8 @@ namespace HomeWorkApp
             InitializeComponent();
 
             _mathHelper = new MathHelper();
+
+            _mathFunction = new MathFunction();
 
             _analytics = new Analytics();
 
@@ -53,9 +57,27 @@ namespace HomeWorkApp
 
             var rotateInverseView = new RotateInverseView(Task_7, _arrayHandler);
 
-            var sortByEven = new SortByEvenView(Task_8, _arrayHandler);
+            var sortByEvenView = new SortByEvenView(Task_8, _arrayHandler);
 
-            var add = new AddView(Task_9, _arrayHandler);
+            var addView = new AddView(Task_9, _arrayHandler);
+
+            var bubbleSortView = new BubbleSortView(Task_10, _mathFunction);
+
+            var selectionSortView = new SelectionSortView(Task_11, _mathFunction);
+
+            var recursiveSum = new RecursiveSumView(Task_12, _mathFunction);
+
+            var recursiveEvenSum = new RecursiveEvenSumView(Task_13, _mathFunction);
+
+            var recursiveMax = new RecursiveMaxView(Task_14, _mathFunction);
+
+            var reverseView = new ReverseView(Task_15, _mathFunction);
+
+            var isPallidromeView = new IsPallidromeView(Task_16, _mathFunction);
+
+            var isFibonnaci = new IsFibonacciView(Task_17, _mathFunction);
+
+            var digitsSum = new DigitsSumView(Task_18, _mathFunction);
         }
 
         private void OnUploadButton_Click(object sender, RoutedEventArgs e)
